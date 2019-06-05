@@ -17,7 +17,7 @@ sidebar:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
-    gitlab: <img src="https://www.codewars.com/users/IanFogelman/badges/large" />
+    gitlab:
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -170,9 +170,10 @@ projects:
 publications:
     title: Publications
     intro: |
+      <img src="https://www.codewars.com/users/IanFogelman/badges/small" />
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      bibendum fringilla a eu lectus. <img src="https://www.codewars.com/users/IanFogelman/badges/small" />
 
     papers:
       - title: The Art of Computer Programming
