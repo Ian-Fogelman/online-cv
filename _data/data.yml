@@ -110,9 +110,9 @@ experiences:
           - Designed and published SSRS reports for business units to display production data, grades and report cards
           - Setup and maintained source control for mission critical databases through (TFSC) team foundation source control
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Database Analyst
+      time: 2015 - 2016
+      company: Columbus, GA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -120,9 +120,25 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Optimized queries and manipulated database objects to improve SQL instance performance
+          - Built, debugged and customized reporting solutions
+          - Scheduled database jobs utilizing the SSMS Job agent
+          - Developed data architecture to perform targeted customer analysis
 
+    - role: Workflow Specialist
+      time: 2014 - 2015
+      company: Columbus, GA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Gathered data and created reports for department directors
+          - Maintained data integrity as for SLA reporting
+          - Gathered and documenting business requirements
+          - Developed scripts for DB2 databases reporting needs
 projects:
     title: Projects
     intro: >
