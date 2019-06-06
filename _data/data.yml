@@ -28,20 +28,14 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Fantasy Football
         link:
 
-      - item: Snowboarding
+      - item: Soccer
         link:
 
-      - item: Cooking
+      - item: Chess
         link:
 
 career-profile:
