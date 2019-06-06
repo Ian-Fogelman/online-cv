@@ -166,11 +166,11 @@ projects:
 publications:
     title: Certifications
     intro: |
+      <center>
       <div data-iframe-width="250" data-iframe-height="300" data-share-badge-id="879faac2-2630-455e-80fa-ea7c52e9522e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-
-      <div data-iframe-width="250" data-iframe-height="300" data-share-badge-id="879faac2-2630-455e-80fa-ea7c52e9522e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-      
-    papers:
+      <div data-iframe-width="250" data-iframe-height="300" data-share-badge-id="2a796315-f515-4376-a6d4-2845498b3046"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+     </center>
+   papers:
       - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
         authors: Microsoft
         conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url>View Details</a>"
