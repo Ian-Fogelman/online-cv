@@ -1,6 +1,10 @@
 <head>
   <script src="https://code.iconify.design/1/1.0.2/iconify.min.js"></script>
 </head>
+<style>
+content: url('https://api.iconify.design/simple-icons:codewars.svg?height=24');
+vertical-align: -0.125em;
+</style>
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
@@ -59,8 +63,8 @@
     {% endif %}
 
     {% if sidebar.codewars %}
-    <li class="codewars"><i class="fas fa-code"></i>
-      <span class="iconify" data-icon="simple-icons:codewars" data-inline="false"></span>
+    <li class="codewars"><span class="iconify" data-icon="simple-icons:codewars" data-inline="false"></span><!--<i class="fas fa-code">--></i>
+      
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
