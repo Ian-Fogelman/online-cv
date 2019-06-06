@@ -125,10 +125,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Here are a few of my recent projects.
+      
 
     assignments:
-      - title: WineKeeper
+      - title: WineKeeper #Here are a few of my recent projects.
         link: "https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US"
         tagline: "An Android native app developed using async and MVC patterns."
 
