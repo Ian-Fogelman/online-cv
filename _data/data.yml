@@ -172,20 +172,19 @@ publications:
     papers:
       - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
         authors: Microsoft
-        conference: "<a href=https://www.youracclaim.com/badges/879faac2-2630-455e-80fa-ea7c52e9522e/public_url>View Details</a>"
-        conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url>View Details</a>"
+        conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url target=_blank>View Details</a>"
         
       - title: "Exam 463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014"
         authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/dfdab3cb-dc74-4984-a501-cef33f527121/public_url>View Details</a>"
+        conference: "<a href=https://www.youracclaim.com/badges/dfdab3cb-dc74-4984-a501-cef33f527121/public_url target=_blank>View Details</a>"
 
       - title: "Exam 462: Administering Microsoft SQL Server 2012/2014 Databases"
         authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/c6da4483-3b9e-4462-9b95-c8c1ce4849f3/public_url>View Details</a>"
+        conference: "<a href=https://www.youracclaim.com/badges/c6da4483-3b9e-4462-9b95-c8c1ce4849f3/public_url target=_blank>View Details</a>"
 
       - title: "Exam 461: Querying Microsoft SQL Server 2012/2014"
         authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/d52974cb-5df5-4cb6-b1c7-a8feeb075a39/public_url>View Details</a>"
+        conference: "<a href=https://www.youracclaim.com/badges/d52974cb-5df5-4cb6-b1c7-a8feeb075a39/public_url target=_blank>View Details</a>"
 
 skills:
     title: Skills &amp; Proficiency
