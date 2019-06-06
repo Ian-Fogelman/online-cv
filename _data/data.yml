@@ -76,11 +76,11 @@ education:
           - Bullet point
 
 experiences:
-    - role: Technical Expert Data Analtics Mentor
+    - role: Technical Expert Data Analytics Mentor
       time: 2019 - Present
       company: Thinkful
       details: |
-        Describe your role here lorem ipsum dolor 
+        My role at Thinkful is as a remote mentor to students who enroll in the data analytics track. I code review, strategize and help students get unstuck in course content and programming assignments.
 
           - Assisted students of all ability levels to develop technical skills
           - Advised students on thinkful curriculum in 1 on 1 meetings
@@ -90,7 +90,7 @@ experiences:
       time: 2016 - Present
       company: Muscogee County School District
       details: |
-        My job role was titled as database administrator, however my responsibilities more closely alligned with a SQL developer.
+        My job role was titled as database administrator, however my responsibilities more closely aligned with a SQL developer. I have my hands on dozens of priority projects after the school board approves a software solution generally my involvements begins by implementing all data needs.
 
           - Designed and maintained databases for district applications, custom reporting and execution logging purposes
           - Managed district Operational Data Store (ODS) warehouse
@@ -106,11 +106,7 @@ experiences:
       time: 2015 - 2016
       company: Columbus, GA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        At TSYS I spent time in the fraud analytics department generating Tableau reports for clients. Additionally working with a team of DBA's to manage and create SSRS reports.
 
           - Optimized queries and manipulated database objects to improve SQL instance performance
           - Built, debugged and customized reporting solutions
@@ -121,12 +117,7 @@ experiences:
       time: 2014 - 2015
       company: Columbus, GA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
+        At Aflac I was part of the resource planning team, my role included automating reports and documenting work process with the business analysts.
           - Gathered data and created reports for department directors
           - Maintained data integrity as for SLA reporting
           - Gathered and documenting business requirements
