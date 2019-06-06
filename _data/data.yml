@@ -145,7 +145,7 @@ projects:
         link: "https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US"
         tagline: "An Android native app developed using async and MVC patterns."
 
-      - title: Android Cloud
+      - title: Anconda Cloud
         link: "https://anaconda.org/IanFogelman/notebooks"
         tagline: "A small collection of my jupter notebooks, examples of how to utalize frame works such as beautifulsoup, requests, json, pandas and scikit learn."
 
