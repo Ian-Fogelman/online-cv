@@ -140,9 +140,9 @@ projects:
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
         tagline: "One of my first web projects made back in 2014, utalizing R I built an app to calulcate monthly payments."
 
-      - title: Stack Exchange
+      - title: Tableau Public Reports
         link: "https://stackoverflow.com/users/6042272/ian-fogelman"
-        tagline: "Over the past two years began to contribute to Stack Exchange on subjects I am comfortable with. It is an interesting experience putting yourself out there in front of your peers and helping others find solutions when they are stumped."
+        tagline: "My public repositories of Tableau reports"
 
       - title: Data Science Challenge Lyrical Analysis
         link: "#"
