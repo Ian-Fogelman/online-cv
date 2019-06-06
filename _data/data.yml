@@ -86,15 +86,11 @@ experiences:
           - Advised students on thinkful curriculum in 1 on 1 meetings
           - Applied advanced teaching techniques to facilitate learning of concepts and principals in programming
 
-    - role: Database Administrator X
+    - role: Database Administrator
       time: 2016 - Present
       company: Muscogee County School District
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        My job role was titled as database administrator, however my responsibilities more closely alligned with a SQL developer.
 
           - Designed and maintained databases for district applications, custom reporting and execution logging purposes
           - Managed district Operational Data Store (ODS) warehouse
