@@ -179,21 +179,39 @@ skills:
 
     toolset:
       - name: SQL
-        level: 98%
+        level: 95%
 
       - name: Python
         level: 90%
 
-      - name: HTML5 & CSS
+      - name: SSIS
         level: 90%
+      
+      - name: SSRS
+        level: 90%
+      
+      - name: HTML & CSS
+        level: 90%
+
+      - name: PowerBi
+        level: 85%  
+        
+      - name: Tableau
+        level: 80%
         
       - name: C#
-        level: 85%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Javascript
+        level: 80%
+        
+      - name: Java
+        level: 80%
+        
+      - name: Visual Basic
+        level: 75%
+        
+      - name: Powershell
         level: 60%
 
 footer: >
