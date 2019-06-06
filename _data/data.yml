@@ -166,7 +166,7 @@ projects:
 publications:
     title: Certifications
     intro: |
-      Various certifications....
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="879faac2-2630-455e-80fa-ea7c52e9522e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
     papers:
       - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
