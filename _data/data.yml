@@ -186,18 +186,27 @@ skills:
 
       - name: SSIS
         level: 90%
-      
+        
       - name: SSRS
         level: 90%
       
       - name: HTML & CSS
         level: 90%
 
+      - name: Restful APIs
+        level: 90% 
+      
+      - name: Datawarehousing
+        level: 90% 
+        
       - name: PowerBi
         level: 85%  
         
       - name: Tableau
         level: 80%
+        
+      - name: SSAS
+        level: 80%  
         
       - name: C#
         level: 80%
