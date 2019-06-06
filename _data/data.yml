@@ -197,6 +197,9 @@ skills:
       - name: Datawarehousing
         level: 90% 
         
+      - name: Stored Procedures
+        level: 90% 
+        
       - name: PowerBi
         level: 85%  
         
@@ -217,6 +220,9 @@ skills:
         
       - name: Visual Basic
         level: 75%
+        
+      - name: Developing CLRs
+        level: 70%  
         
       - name: Powershell
         level: 60%
