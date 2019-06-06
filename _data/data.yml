@@ -21,7 +21,7 @@ sidebar:
     bitbucket:
     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: https://www.codewars.com/users/IanFogelman
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
