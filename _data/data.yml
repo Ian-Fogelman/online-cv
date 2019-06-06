@@ -12,11 +12,11 @@ sidebar:
     avatar: Ianvex.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: IanFogelman@gmail.com
+    #phone: 012 345 6789
+    website: superfunsql.com #do not add http://
     linkedin: ian-fogelman-9995a747
-    github: sharu725
+    github: IanFogelman
     gitlab:
     bitbucket:
     twitter: '@webjeda'
