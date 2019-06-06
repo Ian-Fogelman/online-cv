@@ -27,7 +27,10 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
+        
+      - idiom: English
+        level: Petite
+        
     interests:
       - item: Fantasy Football
         link:
@@ -41,11 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit..
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Driven Database Developer with 5 years of proven success designing and implementing database solutions. Analytical and skilled in understanding business problems to develop systems that improve functionality. Talented at working effectively in collaborative and self-motivated environments.
       
       [Download my resume (PDF)](https://drive.google.com/file/d/1lZSENBGs1P8uHG-tkXhuQQNTndk5_inp/view)
       
