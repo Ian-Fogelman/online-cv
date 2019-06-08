@@ -48,7 +48,110 @@ career-profile:
       
       [Download my resume (PDF)](https://drive.google.com/file/d/1lZSENBGs1P8uHG-tkXhuQQNTndk5_inp/view)
       
+projects:
+    title: Projects
+    intro: >
+      
 
+    assignments:
+      - title: WineKeeper #Here are a few of my recent projects.
+        link: "https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US"
+        tagline: "An Android native app developed using async and MVC patterns."
+
+      - title: Anconda Cloud
+        link: "https://anaconda.org/IanFogelman/notebooks"
+        tagline: "A small collection of my jupter notebooks, examples of how to utalize frame works such as beautifulsoup, requests, json, pandas and scikit learn."
+
+      - title: R Shiny Financial Calculator
+        link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
+        tagline: "One of my first web projects made back in 2014, utalizing R I built an app to calulcate monthly payments."
+
+      - title: Tableau Public Reports
+        link: "https://stackoverflow.com/users/6042272/ian-fogelman"
+        tagline: "My public repositories of Tableau reports"
+
+      - title: Data Science Challenge Lyrical Analysis
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Certifications
+    intro: |
+      <div data-iframe-width="275" data-iframe-height="300" data-share-badge-id="879faac2-2630-455e-80fa-ea7c52e9522e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+      <div data-iframe-width="275" data-iframe-height="300" data-share-badge-id="2a796315-f515-4376-a6d4-2845498b3046"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+      
+    papers:
+      - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
+        authors: Microsoft
+        conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url target=_blank>View Details</a>"
+        
+      - title: "Exam 463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014"
+        authors: Microsoft 
+        conference: "<a href=https://www.youracclaim.com/badges/dfdab3cb-dc74-4984-a501-cef33f527121/public_url target=_blank>View Details</a>"
+
+      - title: "Exam 462: Administering Microsoft SQL Server 2012/2014 Databases"
+        authors: Microsoft 
+        conference: "<a href=https://www.youracclaim.com/badges/c6da4483-3b9e-4462-9b95-c8c1ce4849f3/public_url target=_blank>View Details</a>"
+
+      - title: "Exam 461: Querying Microsoft SQL Server 2012/2014"
+        authors: Microsoft 
+        conference: "<a href=https://www.youracclaim.com/badges/d52974cb-5df5-4cb6-b1c7-a8feeb075a39/public_url target=_blank>View Details</a>"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: SQL
+        level: 95%
+
+      - name: Python
+        level: 90%
+
+      - name: SSIS
+        level: 90%
+        
+      - name: SSRS
+        level: 90%
+      
+      - name: HTML & CSS
+        level: 90%
+
+      - name: Restful APIs
+        level: 90% 
+      
+      - name: Datawarehousing
+        level: 90% 
+        
+      - name: Stored Procedures
+        level: 90% 
+        
+      - name: PowerBi
+        level: 85%  
+        
+      - name: Tableau
+        level: 80%
+        
+      - name: SSAS
+        level: 80%  
+        
+      - name: C#
+        level: 80%
+
+      - name: Javascript
+        level: 80%
+        
+      - name: Java
+        level: 80%
+        
+      - name: Visual Basic
+        level: 75%
+        
+      - name: Developing CLRs
+        level: 70%  
+        
+      - name: Powershell
+        level: 60%
+        
 education:
     - degree: MSc in Computer Science
       university: Columbus State University
@@ -120,112 +223,8 @@ experiences:
           - Maintained data integrity as for SLA reporting
           - Gathered and documenting business requirements
           - Developed scripts for DB2 databases reporting needs
-projects:
-    title: Projects
-    intro: >
-      
 
-    assignments:
-      - title: WineKeeper #Here are a few of my recent projects.
-        link: "https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US"
-        tagline: "An Android native app developed using async and MVC patterns."
 
-      - title: Anconda Cloud
-        link: "https://anaconda.org/IanFogelman/notebooks"
-        tagline: "A small collection of my jupter notebooks, examples of how to utalize frame works such as beautifulsoup, requests, json, pandas and scikit learn."
-
-      - title: R Shiny Financial Calculator
-        link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
-        tagline: "One of my first web projects made back in 2014, utalizing R I built an app to calulcate monthly payments."
-
-      - title: Tableau Public Reports
-        link: "https://stackoverflow.com/users/6042272/ian-fogelman"
-        tagline: "My public repositories of Tableau reports"
-
-      - title: Data Science Challenge Lyrical Analysis
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Certifications
-    intro: |
-      <div data-iframe-width="275" data-iframe-height="300" data-share-badge-id="879faac2-2630-455e-80fa-ea7c52e9522e"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-      <div data-iframe-width="275" data-iframe-height="300" data-share-badge-id="2a796315-f515-4376-a6d4-2845498b3046"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-      
-    papers:
-      - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
-        authors: Microsoft
-        conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url target=_blank>View Details</a>"
-        
-      - title: "Exam 463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014"
-        authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/dfdab3cb-dc74-4984-a501-cef33f527121/public_url target=_blank>View Details</a>"
-
-      - title: "Exam 462: Administering Microsoft SQL Server 2012/2014 Databases"
-        authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/c6da4483-3b9e-4462-9b95-c8c1ce4849f3/public_url target=_blank>View Details</a>"
-
-      - title: "Exam 461: Querying Microsoft SQL Server 2012/2014"
-        authors: Microsoft 
-        conference: "<a href=https://www.youracclaim.com/badges/d52974cb-5df5-4cb6-b1c7-a8feeb075a39/public_url target=_blank>View Details</a>"
-
-skills:
-    title: Skills &amp; Proficiency
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: SQL
-        level: 95%
-
-      - name: Python
-        level: 90%
-
-      - name: SSIS
-        level: 90%
-        
-      - name: SSRS
-        level: 90%
-      
-      - name: HTML & CSS
-        level: 90%
-
-      - name: Restful APIs
-        level: 90% 
-      
-      - name: Datawarehousing
-        level: 90% 
-        
-      - name: Stored Procedures
-        level: 90% 
-        
-      - name: PowerBi
-        level: 85%  
-        
-      - name: Tableau
-        level: 80%
-        
-      - name: SSAS
-        level: 80%  
-        
-      - name: C#
-        level: 80%
-
-      - name: Javascript
-        level: 80%
-        
-      - name: Java
-        level: 80%
-        
-      - name: Visual Basic
-        level: 75%
-        
-      - name: Developing CLRs
-        level: 70%  
-        
-      - name: Powershell
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
