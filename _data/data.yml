@@ -134,6 +134,9 @@ skills:
       - name: SSAS
         level: 80%  
         
+      - name: Developing CLRs
+        level: 80%  
+        
       - name: C#
         level: 80%
 
@@ -146,8 +149,6 @@ skills:
       - name: Visual Basic
         level: 75%
         
-      - name: Developing CLRs
-        level: 70%  
         
       - name: Powershell
         level: 60%
