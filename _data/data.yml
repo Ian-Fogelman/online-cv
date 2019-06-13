@@ -102,8 +102,11 @@ skills:
 
     toolset:
       - name: SQL
-        level: 95%
+        level: 98%
 
+      - name: Stored Procedures
+        level: 98% 
+        
       - name: Python
         level: 90%
 
@@ -120,9 +123,6 @@ skills:
         level: 90% 
       
       - name: Datawarehousing
-        level: 90% 
-        
-      - name: Stored Procedures
         level: 90% 
         
       - name: PowerBi
