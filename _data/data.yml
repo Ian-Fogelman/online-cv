@@ -60,7 +60,7 @@ projects:
 
       - title: Anconda Cloud
         link: "https://anaconda.org/IanFogelman/notebooks"
-        tagline: "A small collection of my jupter notebooks, examples of how to utalize frame works such as beautifulsoup, requests, json, pandas and scikit learn."
+        tagline: "A collection of my jupter notebooks, these notebooks are used to cover topics in my blog and various tutorials."
 
       - title: R Shiny Financial Calculator
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
