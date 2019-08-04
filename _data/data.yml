@@ -67,7 +67,7 @@ projects:
 
       - title: R Shiny Financial Calculator
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
-        tagline: "<br /> One of my first web projects ever published, utalizing R I built an app to calulcate monthly payments."
+        tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments."
 
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
