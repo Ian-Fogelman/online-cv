@@ -69,10 +69,15 @@ projects:
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
         tagline: "Containerized web app developed in Python / Flask. Morsey is a modern UI web app that handles encoding and decoding morse code message."
+      
       - title: Tableau Public Reports
         link: "https://public.tableau.com/profile/ian5690#!/"
         tagline: "My public repositories of Tableau reports"
 
+      - title: Power Bi Pokedex Report
+        link: "https://app.powerbi.com/view?r=eyJrIjoiYTAzODkyZTQtMzRkZC00MDQ3LTljMmUtNDQ0NmFhNTFiZjAzIiwidCI6IjY5Y2JmODUyLTUxMDMtNDUyMS1hNGZjLTBjYTIwODIwMjM3MiIsImMiOjN9"
+        tagline: "PowerBi report featuring dynamic image urls and dimension filtering"
+        
       - title: Data Science Challenge Lyrical Analysis
         link: "#"
         tagline: "A sponsored challenge by me for a local data science club meetup."
