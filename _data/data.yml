@@ -77,7 +77,7 @@ projects:
         link: "https://public.tableau.com/profile/ian5690#!/"
         tagline: "<br /> My public repositories of Tableau reports"
 
-      - title: Power Bi Pokedex Report
+      - title: Power Bi Pokemon Analytics
         link: "https://app.powerbi.com/view?r=eyJrIjoiYTAzODkyZTQtMzRkZC00MDQ3LTljMmUtNDQ0NmFhNTFiZjAzIiwidCI6IjY5Y2JmODUyLTUxMDMtNDUyMS1hNGZjLTBjYTIwODIwMjM3MiIsImMiOjN9"
         tagline: "<br /> PowerBi report featuring dynamic image urls and dimension filtering"
         
