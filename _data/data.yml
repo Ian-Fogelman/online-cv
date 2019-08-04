@@ -63,27 +63,27 @@ projects:
 
       - title: Anconda Cloud
         link: "https://anaconda.org/IanFogelman/notebooks"
-        tagline: "A collection of my jupter notebooks, these notebooks are used to cover topics in my blog and various tutorials."
+        tagline: "<br /> A collection of my jupter notebooks. <br /> These notebooks are used to cover topics in my blog and various tutorials."
 
       - title: R Shiny Financial Calculator
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
-        tagline: "One of my first web projects ever published, utalizing R I built an app to calulcate monthly payments."
+        tagline: "<br /> One of my first web projects ever published, utalizing R I built an app to calulcate monthly payments."
 
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
-        tagline: "Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message."
+        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message."
       
       - title: Tableau Public Reports
         link: "https://public.tableau.com/profile/ian5690#!/"
-        tagline: "My public repositories of Tableau reports"
+        tagline: "<br /> My public repositories of Tableau reports"
 
       - title: Power Bi Pokedex Report
         link: "https://app.powerbi.com/view?r=eyJrIjoiYTAzODkyZTQtMzRkZC00MDQ3LTljMmUtNDQ0NmFhNTFiZjAzIiwidCI6IjY5Y2JmODUyLTUxMDMtNDUyMS1hNGZjLTBjYTIwODIwMjM3MiIsImMiOjN9"
-        tagline: "PowerBi report featuring dynamic image urls and dimension filtering"
+        tagline: "<br /> PowerBi report featuring dynamic image urls and dimension filtering"
         
       - title: Data Science Challenge Lyrical Analysis
         link: "#"
-        tagline: "A sponsored challenge by me for a local data science club meetup."
+        tagline: "<br /> A sponsored challenge by me for a local data science club meetup."
 
 publications:
     title: Certifications
