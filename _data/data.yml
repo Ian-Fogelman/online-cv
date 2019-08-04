@@ -66,6 +66,9 @@ projects:
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
         tagline: "One of my first web projects ever published, utalizing R I built an app to calulcate monthly payments."
 
+      - title: Morsey 
+        link: "https://github.com/Ian-Fogelman/Morsey https://github.com/Ian-Fogelman/Morsey"
+        tagline: "Containerized web app developed in Python / Flask. Morsey is a modern UI web app that handles encoding and decoding morse code message."
       - title: Tableau Public Reports
         link: "https://public.tableau.com/profile/ian5690#!/"
         tagline: "My public repositories of Tableau reports"
