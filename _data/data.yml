@@ -82,7 +82,7 @@ projects:
         tagline: "<br /> PowerBi report featuring dynamic image urls and dimension filtering"
         
       - title: Data Science Challenge Lyrical Analysis
-        link: "#"
+        link: "https://github.com/Ian-Fogelman/ColumbusGADataScienceChallenge001"
         tagline: "<br /> A sponsored challenge by me for a local data science club meetup."
 
 publications:
