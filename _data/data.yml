@@ -84,7 +84,11 @@ projects:
       - title: Data Science Challenge Lyrical Analysis
         link: "https://github.com/Ian-Fogelman/ColumbusGADataScienceChallenge001"
         tagline: "<br /> A sponsored challenge by me for a local data science club meetup."
-
+        
+      - title: Kaggle Challenges
+        link: "https://www.kaggle.com/ifogelman"
+        tagline: "<br /> My ranking and completions on Kaggle, data science community website."
+        
 publications:
     title: Certifications
     intro: |
