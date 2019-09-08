@@ -144,6 +144,9 @@ skills:
       - name: Datawarehousing
         level: 90% 
         
+      - name: MVC / Entity Framework
+        level: 85%  
+        
       - name: PowerBi
         level: 85%  
         
