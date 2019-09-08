@@ -161,6 +161,9 @@ skills:
 
       - name: Javascript
         level: 80%
+      
+      - name: Docker
+        level: 80%
         
       - name: Java
         level: 80%
