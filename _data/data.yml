@@ -68,7 +68,11 @@ projects:
       - title: R Shiny Financial Calculator
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
         tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments."
-
+        
+      - title: 
+        link: "https://hub.docker.com/r/ianfogelman/digireci"
+        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based model training and testing web application."
+        
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
         tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message."
