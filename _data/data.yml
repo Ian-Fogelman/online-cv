@@ -69,7 +69,7 @@ projects:
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
         tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments."
         
-      - title: Digi Reci Digit Recognition Web Application
+      - title: Digi Reci
         link: "https://hub.docker.com/r/ianfogelman/digireci"
         tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based model training and testing web application."
         
