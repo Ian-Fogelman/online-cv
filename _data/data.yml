@@ -70,7 +70,7 @@ projects:
         tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments."
         
       - title: Digi Reci
-        link: "https://hub.docker.com/r/ianfogelman/digireci"
+        link: "https://github.com/Ian-Fogelman/DigiReci"
         tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based model training and testing web application."
         
       - title: Morsey 
