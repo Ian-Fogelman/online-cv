@@ -203,15 +203,6 @@ education:
           - Bullet point
 
 experiences:
-    - role: Technical Expert Data Analytics Mentor
-      time: 2019 - Present
-      company: Thinkful
-      details: |
-        My role at Thinkful is as a remote mentor to students who enroll in the data analytics track. I code review, strategize and help students get unstuck in course content and programming assignments.
-
-          - Assisted students of all ability levels to develop technical skills
-          - Advised students on thinkful curriculum in 1 on 1 meetings
-          - Applied advanced teaching techniques to facilitate learning of concepts and principals in programming
 
     - role: Database Admin / Full Stack Developer
       time: 2016 - Present
@@ -228,6 +219,16 @@ experiences:
           - Developed SSIS Integration packages to output student and employee data files for vendor integration
           - Designed and published SSRS reports for business units to display production data, grades and report cards
           - Setup and maintained source control for mission critical databases through (TFSC) team foundation source control
+
+    - role: Technical Expert Data Analytics Mentor
+      time: 2019 - 2019
+      company: Thinkful
+      details: |
+        My role at Thinkful is as a remote mentor to students who enroll in the data analytics track. I code review, strategize and help students get unstuck in course content and programming assignments.
+
+          - Assisted students of all ability levels to develop technical skills
+          - Advised students on thinkful curriculum in 1 on 1 meetings
+          - Applied advanced teaching techniques to facilitate learning of concepts and principals in programming
 
     - role: Database Analyst
       time: 2015 - 2016
