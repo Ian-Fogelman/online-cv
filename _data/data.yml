@@ -219,7 +219,8 @@ experiences:
           - Developed SSIS Integration packages to output student and employee data files for vendor integration
           - Designed and published SSRS reports for business units to display production data, grades and report cards
           - Setup and maintained source control for mission critical databases through (TFSC) team foundation source control
-
+          - Built business intelligence dashboards in PowerBi and Tableau to display student KPIs
+          
     - role: Technical Expert Data Analytics Mentor
       time: 2019 - 2019
       company: Thinkful
