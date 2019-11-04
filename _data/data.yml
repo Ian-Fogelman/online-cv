@@ -93,9 +93,9 @@ projects:
         link: "https://www.kaggle.com/ifogelman"
         tagline: "<br /> My ranking and completions on Kaggle, data science community website."
         
-      - title: AWS Lambda, MyFunction
-        link: "https://www.kaggle.com/ifogelman"
-        tagline: "<br />AWS lambda functions are event driven serverless program endpoints hosted in AWS."
+      #- title: AWS Lambda, MyFunction
+      #  link: "https://www.kaggle.com/ifogelman"
+      #  tagline: "<br />AWS lambda functions are event driven serverless program endpoints hosted in AWS."
         
 publications:
     title: Certifications
