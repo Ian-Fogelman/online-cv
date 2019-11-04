@@ -93,6 +93,10 @@ projects:
         link: "https://www.kaggle.com/ifogelman"
         tagline: "<br /> My ranking and completions on Kaggle, data science community website."
         
+      - title: AWS Lambda, MyFunction
+        link: "https://www.kaggle.com/ifogelman"
+        tagline: "AWS lambda functions are event driven serverless program endpoints hosted in AWS."
+        
 publications:
     title: Certifications
     intro: |
@@ -171,10 +175,12 @@ skills:
       - name: Java
         level: 80%
         
+      - name: Amazon Web Services
+        level: 80%
+        
       - name: Visual Basic
         level: 75%
-        
-        
+           
       - name: Powershell
         level: 60%
         
