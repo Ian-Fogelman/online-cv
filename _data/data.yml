@@ -75,7 +75,7 @@ projects:
         
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
-        tagline: "<br />Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message."
+        tagline: "<br />Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message. <br /> Hosted on AWS."
       
       - title: Tableau Public Reports
         link: "https://public.tableau.com/profile/ian5690#!/"
