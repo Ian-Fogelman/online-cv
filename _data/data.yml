@@ -95,7 +95,7 @@ projects:
         
       - title: AWS Lambda, MyFunction
         link: "https://www.kaggle.com/ifogelman"
-        tagline: "AWS lambda functions are event driven serverless program endpoints hosted in AWS."
+        tagline: "<br />AWS lambda functions are event driven serverless program endpoints hosted in AWS."
         
 publications:
     title: Certifications
