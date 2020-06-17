@@ -97,7 +97,7 @@ projects:
         
       - title: Dad Joke Rest API
         link: "http://18.188.104.191:3000/explorer/"
-        tagline: "A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes."
+        tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes."
         
 publications:
     title: Certifications
