@@ -74,7 +74,7 @@ projects:
         
       - title: Digi Reci
         link: "https://github.com/Ian-Fogelman/DigiReci"
-        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based model training and testing web application."
+        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based machine learning model training and testing web application."
         
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
