@@ -222,6 +222,18 @@ education:
 
 experiences:
 
+
+    - role: Technical Writer / Author
+      time: 2020 - Current
+      company: MSSQLTips.com Edgewood Solutions
+      details: |
+        x
+
+          - Communicated with editorial team on authored topics
+          - Documented complex technical issues into clear concise and reapeatable steps of logical operation
+          - Brainstormed interesting writing topics ranging from SQL, Python, Business Intelligence, Data Science and Web development with scopes of common issues to niche specific issues. 
+          
+          
     - role: Database Admin / Full Stack Developer
       time: 2016 - Present
       company: Muscogee County School District
