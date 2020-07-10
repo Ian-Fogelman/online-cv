@@ -60,8 +60,7 @@ projects:
 
     assignments:
       - title: WineKeeper #Here are a few of my recent projects.
-        link: "<a href=https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US=_blank>View Details</a>"
-        #"<a> https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US </a>"
+        link: "<a> https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US </a>"
         tagline: "<br /> An Android native app developed to keep tabs on your favorite wines."
 
       - title: Anconda Cloud
@@ -99,7 +98,11 @@ projects:
       - title: Dad Joke Rest API
         link: "http://18.188.104.191:3000/explorer/"
         tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes."
-        
+      
+      - title : MSSQLTips Publications
+        link: "https://www.mssqltips.com/sqlserverauthor/379/ian-fogelman/"
+        tagline: "<br /> A list of my publications at MSSQLtips.com."
+     
 publications:
     title: Certifications
     intro: |
