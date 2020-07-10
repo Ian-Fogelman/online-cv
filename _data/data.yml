@@ -194,13 +194,22 @@ skills:
       - name: AWS VPC
         level: 85%  
         
-      - name: AWS CloudWatch, CloudFormation, CloudTrail
+      - name: AWS CloudWatch
+        level: 85% 
+        
+      - name: AWS CloudFormation
+        level: 85% 
+        
+      - name: AWS CloudTrail
         level: 85% 
         
       - name: AWS IoT
         level: 85% 
       
-      - name: AWS Kinesis, Kinesis Firehose
+      - name: AWS Kinesis
+        level: 80% 
+        
+      - name : Kinesis Firehose 
         level: 80% 
         
       - name: Tableau
