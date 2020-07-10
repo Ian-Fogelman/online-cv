@@ -173,31 +173,31 @@ skills:
       - name: AWS Lambda
         level: 85%  
         
-     - name: AWS S3
+      - name: AWS S3
         level: 85%   
         
-     - name: AWS RDS
+      - name: AWS RDS
         level: 85%  
         
-     - name: AWS Rest Gateway API 
+      - name: AWS Rest Gateway API 
         level: 85% 
         
-     - name: AWS Redshift
+      - name: AWS Redshift
         level: 85%  
         
-     - name: AWS DynamoDB
+      - name: AWS DynamoDB
         level: 85%   
         
-     - name: AWS Lambda
+      - name: AWS Lambda
         level: 85% 
         
-     - name: AWS VPC
+      - name: AWS VPC
         level: 85%  
         
-     - name: AWS CloudWatch, CloudFormation, CloudTrail
+      - name: AWS CloudWatch, CloudFormation, CloudTrail
         level: 85% 
         
-     - name: AWS IoT
+      - name: AWS IoT
         level: 85% 
       
       - name: AWS Kinesis, Kinesis Firehose
