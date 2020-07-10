@@ -61,23 +61,23 @@ projects:
     assignments:
       - title: WineKeeper #Here are a few of my recent projects.
         link: "<a> https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US </a>"
-        tagline: "<br /> An Android native app developed to keep tabs on your favorite wines."
+        tagline: "<br /> An Android native app developed to keep tabs on your favorite wines"
 
       - title: Anconda Cloud
         link: "https://anaconda.org/IanFogelman/notebooks"
-        tagline: "<br /> A collection of my jupter notebooks. <br /> These notebooks are used to cover topics in my blog and various tutorials."
+        tagline: "<br /> A collection of my jupter notebooks. <br /> These notebooks are used to cover topics in my blog and various tutorials"
 
       - title: R Shiny Financial Calculator
         link: "https://fogelman-dashboard.shinyapps.io/LoanPayment-Calc/"
-        tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments."
+        tagline: "<br /> Utalizing R and R Shiny I built an app to calulcate monthly payments"
         
       - title: Digi Reci
         link: "https://github.com/Ian-Fogelman/DigiReci"
-        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based machine learning model training and testing web application."
+        tagline: "<br /> Containerized web app developed in Python / Flask.<br /> Digi Reci is a UI based machine learning model training and testing web application"
         
       - title: Morsey 
         link: "https://github.com/Ian-Fogelman/Morsey"
-        tagline: "<br />Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message."
+        tagline: "<br />Containerized web app developed in Python / Flask.<br /> Morsey is a modern UI web app that handles encoding and decoding morse code message"
       
       - title: Tableau Public Reports
         link: "https://public.tableau.com/profile/ian5690#!/"
@@ -89,19 +89,19 @@ projects:
         
       - title: Data Science Challenge Lyrical Analysis
         link: "https://github.com/Ian-Fogelman/ColumbusGADataScienceChallenge001"
-        tagline: "<br /> A sponsored challenge by me for a local data science club meetup."
+        tagline: "<br /> A sponsored challenge by me for a local data science club meetup"
         
       - title: Kaggle Challenges
         link: "https://www.kaggle.com/ifogelman"
-        tagline: "<br /> My ranking and completions on Kaggle, data science community website."
+        tagline: "<br /> My ranking and completions on Kaggle, data science community website"
         
       - title: Dad Joke Rest API
         link: "http://18.188.104.191:3000/explorer/"
-        tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes."
+        tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes"
       
       - title : MSSQLTips Publications
         link: "https://www.mssqltips.com/sqlserverauthor/379/ian-fogelman/"
-        tagline: "<br /> A list of my publications at MSSQLtips.com."
+        tagline: "<br /> A list of my publications at MSSQLtips.com"
      
 publications:
     title: Certifications
