@@ -170,6 +170,39 @@ skills:
       - name: PowerBi
         level: 85%  
         
+      - name: AWS Lambda
+        level: 85%  
+        
+     - name: AWS S3
+        level: 85%   
+        
+     - name: AWS RDS
+        level: 85%  
+        
+     - name: AWS Rest Gateway API 
+        level: 85% 
+        
+     - name: AWS Redshift
+        level: 85%  
+        
+     - name: AWS DynamoDB
+        level: 85%   
+        
+     - name: AWS Lambda
+        level: 85% 
+        
+     - name: AWS VPC
+        level: 85%  
+        
+     - name: AWS CloudWatch, CloudFormation, CloudTrail
+        level: 85% 
+        
+     - name: AWS IoT
+        level: 85% 
+      
+      - name: AWS Kinesis, Kinesis Firehose
+        level: 80% 
+        
       - name: Tableau
         level: 80%
         
