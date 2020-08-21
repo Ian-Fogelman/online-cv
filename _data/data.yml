@@ -60,7 +60,7 @@ projects:
 
     assignments:
       - title: WineKeeper #Here are a few of my recent projects.
-        link: "<a> https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US </a>"
+        link: "https://play.google.com/store/apps/details?id=fogelmanwinekeeper.debug.com.winekeeper&hl=en_US"
         tagline: "<br /> An Android native app developed to keep tabs on your favorite wines"
 
       - title: Anconda Cloud
