@@ -95,8 +95,8 @@ projects:
         link: "https://www.kaggle.com/ifogelman"
         tagline: "<br /> My ranking and completions on Kaggle, data science community website"
         
-      - title: Dad Joke Rest API
-        link: "http://18.188.104.191:3000/explorer/"
+      - title: (Dad-a-base) Dad Joke Rest API
+        link: "http://3.129.68.199:65321/explorer/"
         tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes"
       
       - title : MSSQLTips Publications
