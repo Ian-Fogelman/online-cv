@@ -269,6 +269,21 @@ education:
 experiences:
 
 
+
+    - role: Senior ETL Developer
+      time: 2020 - Current
+      company: Aflac
+      details: | 
+         Aflac is the world leader in supplemental insurance offerings. My role is in digital services / efficiency pillar IT sector of the company. Involved in large scale data ETL pipeline development database and cloud architecture embedded in various projects as a tech lead.
+        
+        - Mapped data between source systems and warehouses.
+        - Selected methods and criteria for warehouse data evaluation procedures.
+        - Collaborated with multi-functional roles to communicate and align development efforts.
+        - Documented data warehouse architecture to guarantee capacity met current and forecasted needs.
+        - Verified performance and reliability of development database transformation solutions via extensive simulation testing.
+        - Interpreted data models for conversion into ETL diagrams and code.
+        - Utilized AWS cloud technology to achieve development goals
+
     - role: Technical Writer / Author
       time: 2020 - Current
       company: MSSQLTips.com
@@ -280,8 +295,8 @@ experiences:
           - Brainstormed interesting writing topics ranging from SQL, Python, Business Intelligence, Data Science and Web development with scopes of common issues to niche specific. 
           
           
-    - role: Database Admin / Full Stack Developer
-      time: 2016 - Present
+    - role: Database Administrator
+      time: 2016 - 2020
       company: Muscogee County School District
       details: |
         At MCSD I have my hands on dozens of projects after the school board approves a software solution generally my involvements begins by implementing all data needs. Also I was involved with front end app development utilizing .Net, entity frame work and MVC.
