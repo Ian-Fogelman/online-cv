@@ -95,9 +95,9 @@ projects:
         link: "https://www.kaggle.com/ifogelman"
         tagline: "<br /> My ranking and completions on Kaggle, data science community website"
         
-      - title: (Dad-a-base) Dad Joke Rest API
-        link: "http://3.129.68.199:3000/explorer/"
-        tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes"
+      #- title: (Dad-a-base) Dad Joke Rest API
+      #  link: "http://3.129.68.199:3000/explorer/"
+      #  tagline: "<br /> A node JS app hosted on a AWS vm, simple CRUD operations for the best dad jokes"
       
       - title : MSSQLTips Publications
         link: "https://www.mssqltips.com/sqlserverauthor/379/ian-fogelman/"
@@ -111,11 +111,18 @@ publications:
       
     papers:
     
+      - title: "Snowpro Certifications"
+        authors: Snowflake
+        conference: "<a href=https://www.youracclaim.com/earner/earned/badge/600c8bab-7039-4d9c-b8f5-1a871b1b3784 target=_blank>View Details</a>"
+        
+      - title: "AWS Certified Cloud Practitioner"
+        authors: Amazon Web Services
+        conference: "<a https://www.youracclaim.com/earner/earned/badge/5892b444-671e-41e1-b6b2-c2937ffdce23 target=_blank>View Details</a>"
+        
       - title: "AWS Certified Solutions Architect – Associate"
         authors: Amazon Web Services
         conference: "<a href=https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-02-11&ci=AWS01168476 target=_blank>View Details</a>"
-        
-        
+            
       - title: "Exam 464: Developing Microsoft SQL Server 2012/2014 Databases"
         authors: Microsoft
         conference: "<a href=https://www.youracclaim.com/badges/10d12d62-2a01-47d1-8b29-cfe7372d83af/public_url target=_blank>View Details</a>"
